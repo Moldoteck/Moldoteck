@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently trying to 
+- learn german (hope it's not just a dream to speak B2 level sometime in future)
+- research Switzerland's job market (almost got into Google, but that damn recession...)
+- learn Rust (similar to C++ in some ways, so shouldn't be too hard I guess)
+
+\backpage - an attempt of a 'looking back' style blog
+  - https://bit.ly/3U2WzsW 
+
 <!--
 **Moldoteck/Moldoteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
