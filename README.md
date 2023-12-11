@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 🔭 I’m currently trying to 
 - learn german (hope it's not just a dream to speak B2 level sometime in future)
@@ -8,7 +8,7 @@
 \backpage - an attempt of a 'looking back' style blog
   - https://bit.ly/3U2WzsW 
 
-<!--
+
 **Moldoteck/Moldoteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
